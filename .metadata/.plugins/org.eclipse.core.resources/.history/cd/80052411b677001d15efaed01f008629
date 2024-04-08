@@ -1,0 +1,5 @@
+package com.cns.sms.entity;
+abstract
+public class OrganizationEntity {
+
+}

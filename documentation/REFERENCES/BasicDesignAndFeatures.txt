@@ -1,0 +1,12 @@
+						        STUDENT MANAGEMENT SYSTEM (SMS)
+
+Student Dashboard
+
+    Admission :
+	student portal payments
+ 	student portal query management
+ 	student portal post application process
+ 	student portal communications
+ 	student portal notifications
+
+

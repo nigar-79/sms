@@ -1,0 +1,1 @@
+servlet (at Server side) processes the request send by client.
